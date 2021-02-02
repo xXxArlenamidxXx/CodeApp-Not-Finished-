@@ -1,2 +1,1 @@
-Hello This Is Not Finished, When it will be finished we will add a few more files and then when ur gonna check it out ur gonna need to press send out then it will show pastebin
-put up the every code then press "Create New Paste" On pastebin then enjoy!
+Hello, To make the application just type in the code u made on the textbox, then press "Click Here For Link" then copy the code you put on the text box and paste it on pastebin then make up a title and press "create new paste" send it out to friends and enjoy!
